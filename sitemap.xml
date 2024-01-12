@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://app.nickyam.com/android/apkpure.html</loc>
+    <loc>http://app.nickyam.com/android/whatsapp-apk.html</loc>
     
     <lastmod>2024-01-12</lastmod>
     
@@ -11,7 +11,25 @@
   </url>
   
   <url>
-    <loc>http://app.nickyam.com/android/telegram.html</loc>
+    <loc>http://app.nickyam.com/android/telegram-apk.html</loc>
+    
+    <lastmod>2024-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://app.nickyam.com/android/chatgpt-apk.html</loc>
+    
+    <lastmod>2024-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://app.nickyam.com/android/apkpure-apk.html</loc>
     
     <lastmod>2024-01-12</lastmod>
     
@@ -22,16 +40,7 @@
   <url>
     <loc>http://app.nickyam.com/apple/apple-id.html</loc>
     
-    <lastmod>2024-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://app.nickyam.com/android/chatgpt.html</loc>
-    
-    <lastmod>2024-01-11</lastmod>
+    <lastmod>2024-01-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,6 +65,13 @@
 
   
   <url>
+    <loc>http://app.nickyam.com/tags/%E8%B4%A6%E5%8F%B7/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://app.nickyam.com/tags/%E5%B7%A5%E5%85%B7%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2024-01-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -77,13 +93,6 @@
   </url>
   
   <url>
-    <loc>http://app.nickyam.com/tags/%E8%B4%A6%E5%8F%B7/</loc>
-    <lastmod>2024-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://app.nickyam.com/tags/%E9%80%9A%E8%AE%AF%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2024-01-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -93,14 +102,14 @@
 
   
   <url>
-    <loc>http://app.nickyam.com/categories/android/</loc>
+    <loc>http://app.nickyam.com/categories/apple/</loc>
     <lastmod>2024-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://app.nickyam.com/categories/apple/</loc>
+    <loc>http://app.nickyam.com/categories/android/</loc>
     <lastmod>2024-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
