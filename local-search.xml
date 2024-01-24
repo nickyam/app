@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>Win｜免费开源的短信轰炸程序</title>
+    <link href="/windows/smsboom-exe.html"/>
+    <url>/windows/smsboom-exe.html</url>
+    
+    <content type="html"><![CDATA[<p>SMSBoom 是 Github上 一个开源有趣的 Python 短信轰炸程序，目前 Star 已有15k，支持多线程全自动添加有效接口，异步协程百万并发，可以对指定的手机号执行短信轰炸。</p><p>原理很简单，首先是抓取很多平台注册账户发送验证码时调用的接口，然后把接口信息存储为 api.json 文件，就可以不断地向这个文件增加新的平台接口。</p><p>项目已经使用 <code>pyinstaller</code> 打包成 <code>EXE</code> 可执行文件!免去部署 <code>Python</code> 环境的烦恼,适合用于小白。</p><p>打包环境为: Windows 10 x64 Python3.8 如果 Windows 系统不是 Windows 10 64位 版本,可能会运行失败!</p><ul><li>在任意盘(除C盘外)中新建一个文件夹。将程序移动到其中。</li><li><code>Win+R</code> 打开<code>cmd</code>输入存放的盘符。例如: E: 然后cd到文件夹，例如 cd SMS。</li><li>确认 cmd 路径是 EXE 所在路径后，cmd 输入:smsboom_pyinstall.exe，若出现命令提示，则说明脚本已正常运行。</li><li>使用前必须更新一遍最新接口。</li></ul><p>GitHub链接为：<a href="https://github.com/OpenEthan/SMSBoom">https://github.com/OpenEthan/SMSBoom</a></p><a class="btn" href="/app/exe/smsboom.exe"  title="下载SMSBOOM" target="_blank">下载SMSBOOM</a>]]></content>
+    
+    
+    <categories>
+      
+      <category>windows</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>工具应用</tag>
+      
+      <tag>GitHub</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>安卓｜旋风加速器</title>
     <link href="/android/xuanfeng-apk.html"/>
     <url>/android/xuanfeng-apk.html</url>
@@ -21,6 +48,8 @@
     <tags>
       
       <tag>加速器</tag>
+      
+      <tag>VPN</tag>
       
     </tags>
     

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://app.nickyam.com/windows/smsboom-exe.html</loc>
+    
+    <lastmod>2024-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://app.nickyam.com/android/xuanfeng-apk.html</loc>
     
     <lastmod>2024-01-20</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://app.nickyam.com/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,42 +84,56 @@
   
   <url>
     <loc>http://app.nickyam.com/tags/%E5%B7%A5%E5%85%B7%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://app.nickyam.com/tags/%E8%B4%A6%E5%8F%B7/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://app.nickyam.com/tags/AI/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://app.nickyam.com/tags/%E5%95%86%E5%8A%A1%E5%8A%9E%E5%85%AC/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://app.nickyam.com/tags/%E9%80%9A%E8%AE%AF%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://app.nickyam.com/tags/%E5%8A%A0%E9%80%9F%E5%99%A8/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://app.nickyam.com/tags/VPN/</loc>
+    <lastmod>2024-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://app.nickyam.com/tags/GitHub/</loc>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -119,14 +142,21 @@
   
   <url>
     <loc>http://app.nickyam.com/categories/android/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://app.nickyam.com/categories/apple/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2024-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://app.nickyam.com/categories/windows/</loc>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
